@@ -9,8 +9,8 @@ const Footer = () => {
                 <span className='text-green-700'>OP/&gt;</span>
             </div>
             <div className='flex'>
-                Created with <img className='w-7' src="icons/heart.png" alt="" />
-                by Lohith
+                Created with love <img className='w-7' src="icons/heart.png" alt="" />
+                by Lohith 
             </div>
 
         </div>
